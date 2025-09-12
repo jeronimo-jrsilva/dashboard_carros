@@ -29,3 +29,9 @@ Contato
 - Relatórios automáticos.
 - Atualização da base de dados.
 ## Prévia
+## Estrutura dos arquivos
+## Como usar
+## Origem dos dados
+## Requisitos
+## Licensa
+## Contato
