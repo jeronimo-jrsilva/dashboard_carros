@@ -33,7 +33,7 @@ dashboard-loja
 
 ## Como usar
 - Clone este repositório ou baixe o .zip
-  - git clone https://github.com/jeronimo-jrsilva/dashboard_carros//Dashboards.xlsx
+  - git clone https://github.com/jeronimo-jrsilva/dashboard_carros/Dashboards.xlsx
 - Abra o arquivo Dashboards.xlsx
 - Navegue pelo painel para visualizar os insights.  
 
