@@ -26,8 +26,23 @@ Contato
 <img width="626" height="345" alt="tabela de dados" src="https://github.com/user-attachments/assets/a088f79d-73ca-4c51-9f9d-4ad5f6b0895d" />
 
 ## Estrutura dos arquivos
+dashboard-loja
+- Dashboards.xlsx
+- README.md
+- License
+
 ## Como usar
+- Clone este repositório ou baixe o .zip
+  - git clone https://github.com/Jeronimo-teste/dashboard_carros//Dashboards.xlsx
+- Abra o arquivo Dashboards.xlsx
+- Navegue pelo painel para visualizar os insights.  
+
 ## Origem dos dados
+Dados de vendas de uma revendedora de automóveis em Fortaleza no ano de 2024, com base em albumas marcas e modelos de carros.
+
 ## Requisitos
+MS Excel 2019 ou superior (recomendado Excel 365)
+
 ## Licensa
+
 ## Contato
