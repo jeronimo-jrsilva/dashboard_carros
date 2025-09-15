@@ -3,7 +3,7 @@ Atividade SENAC onde criamos um dashboard a partir de dados de uma revenda de ve
 
 Índice\
 Sobre o projeto\
-Funcionaliddades\
+Funcionalidades\
 Prévia\
 Estrutura dos arquivos\
 Como usar\
@@ -44,5 +44,7 @@ Dados de vendas de uma revendedora de automóveis em Fortaleza no ano de 2024, c
 MS Excel 2019 ou superior (recomendado Excel 365)
 
 ## Licensa
+Este projeto está licenciado sob a licença MIT. Sinta-se livre para usar, modificar e compartilhar.
 
 ## Contato
+Por email: shaolin.jr@gmail.com
